@@ -2,7 +2,7 @@
 
 ## [Link to Deploy Application](https://team-work-goit-slim-mom.netlify.app/)
 
-## [Swagger API](https://slim-mom-back.herokuapp.com/api-docs/)
+## [Swagger API](https://slim-mom-backend-ylpc.onrender.com/api-docs/)
 
 ---
 
